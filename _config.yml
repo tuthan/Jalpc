@@ -4,8 +4,8 @@
 title: Atas.Tech
 description: Hung Vo personal page.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages,atas,tech
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://tuthan.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://www.atas.tech/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username: hungvotrung  # Leave blank if you don't have now
   email: hung@atas.tech  # Leave blank if you don't have now
-  cv: http://hung.atas.tech  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://www.atas.tech  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
